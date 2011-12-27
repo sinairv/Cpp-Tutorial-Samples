@@ -1,8 +1,9 @@
-#include <iostream.h>
+#include <iostream>
 #include <math.h>
-#include <iomanip.h>
+#include <iomanip>
+using namespace std;
 
-main()
+int main()
 {
 	int BaseNo , ExpoNo;
 	cin >> BaseNo >> ExpoNo;
