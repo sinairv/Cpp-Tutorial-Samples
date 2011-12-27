@@ -8,7 +8,7 @@ To find the most recent modifications of these samples, or to contribute, find t
 
 ## References
 
-Beside several Internet sources, these are the main references that I used during the course of creating these samples. Most of the samples are adopted from the first reference. I strongly recommend studying the first reference, if you are learning C++ as a *first* programming language.
+Beside several Internet sources, these are the main references that I used during the course of creating these samples. Most of the samples are adopted from the first reference. Even many of the comments are quoted from it. I strongly recommend studying the first reference, if you are learning C++ as a *first* programming language.
 
 [1] H. Deitel and P. Deitel, *C++ How to Program*, 5th ed. Prentice Hall, Jan. 2005.
 
