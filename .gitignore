@@ -1,0 +1,15 @@
+*.o
+*.a
+*.dsp
+*.dsw
+*.opt
+*.plg
+*.ncb
+*.suo
+*.sdf
+*.user
+Debug/
+ipch/
+Release/
+bin/
+*.bak
