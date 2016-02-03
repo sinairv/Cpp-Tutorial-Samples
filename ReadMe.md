@@ -4,7 +4,7 @@ This repository contains C++ sample codes that I adopted from various sources to
 
 These samples are by no means complete, nor free from deficiencies. Feel free to make them complete or introduce them to more C++ newbies or teachers. The samples cover only the standard/ISO C++ language.
 
-To access or contribute the most recent modifications of these samples, find their github repository here: <https://github.com/sinairv/CppTutorialSamples> 
+To access or contribute the most recent modifications of these samples, find their github repository here: <https://github.com/sinairv/Cpp-Tutorial-Samples> 
 
 ## Running the Samples
 
@@ -22,5 +22,3 @@ Beside several Internet sources, the following are the main references that I us
 
 [3] H. Schildt, *C++: The Complete Reference*, 4th ed. McGraw-Hill Osborne Media, Nov. 2002.
 
-## Contact
-Sina Iravanian: sina@sinairv.com
