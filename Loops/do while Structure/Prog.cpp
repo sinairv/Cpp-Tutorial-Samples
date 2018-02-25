@@ -11,6 +11,7 @@ int main()
 	do
 		cout << num1 << endl;
 	while ( ++num1 <= 10 ); // it ends with semicolon.
+	// compare with while(){...} structure if you want
 
 	return 0;
 }
