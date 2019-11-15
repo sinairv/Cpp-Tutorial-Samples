@@ -6,7 +6,7 @@
 #include <iostream>
 using namespace std;
 
-main()
+int main()
 {
 	int c = 5;
 
