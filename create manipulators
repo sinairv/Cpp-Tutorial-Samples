@@ -1,0 +1,27 @@
+//simple code for manipulators:
+//add "ly" after string.
+
+#include <iostream>
+
+std::ostream &append_ly(std::ostream &output)
+{
+    output <<"ly";
+    
+    return output;
+}
+
+int main() {
+    
+  	int n, i;
+  	char word[100];
+  
+  	std::cin >> n;
+  
+  	for(i = 0; i < n; i++)
+    {
+      	std::cin >> word;
+      	std::cout << word << append_ly << " ";
+    }
+  
+    return 0;
+}
